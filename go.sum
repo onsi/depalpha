@@ -1,2 +1,4 @@
 github.com/onsi/depa v1.0.0 h1:6Lfe9VHor17TWj0wPI/XoQriwMNYNVUj3xleUOsDGdk=
 github.com/onsi/depa v1.0.0/go.mod h1:ktkpJ8hGYEJw1HEwOESryBeU6nu+UxpSL29burtDJY8=
+github.com/onsi/depa v1.1.0 h1:Jip+ocjhce6eQOXp6ggL8GCuJj5ulIQhrx9YkOqCkV8=
+github.com/onsi/depa v1.1.0/go.mod h1:Y54MnPZkwivIcou5ePvHCDKGsiN72hhL+ZtpG/CzVwM=
