@@ -4,6 +4,8 @@ github.com/onsi/depa v1.2.0/go.mod h1:6O0o2ZHtNybYN8bLA2E8gUIYEssyzOPlWoA/yX4zOf
 github.com/onsi/depa v1.4.0/go.mod h1:ql8ssGS/B7Ki3iuIZmHxV5zCLjEWSges0ROgc7Pw19w=
 github.com/onsi/depa v1.5.0 h1:quy1SRAcgSIjKSpZezcwlnBvRBTlIDGKMpbxa0IR9dI=
 github.com/onsi/depa v1.5.0/go.mod h1:Q/fHmrGL8s5PhHwaR1zG4bVuxpCxd+T1eJXdTwqYXWA=
+github.com/onsi/depa v1.6.0 h1:bByPEImv4aMmKJsFaiBfpuxMS5FERFgOhG88il/2NR4=
+github.com/onsi/depa v1.6.0/go.mod h1:nXvZcPdPi3MQZfepgfU9W/jp6RfT2GBu/IOh0BrmthY=
 github.com/onsi/depalpha v1.1.0/go.mod h1:1ePQQhRe8KtM7nTn5UmRBNvo3Zt4q0E7OdIiQ9aydbo=
 github.com/onsi/depalpha v1.2.0/go.mod h1:PQIYYYO0BOyplNYeXmYLh3y99TEe0DybH/EJFiuCa5Q=
 github.com/onsi/depalpha v1.3.0/go.mod h1:iGcKWb1yK0H537w7xb5jKBoCYh0PYg5DMxVNMXeyx3A=
